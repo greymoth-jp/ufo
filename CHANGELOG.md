@@ -2,6 +2,22 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## v1.6.4
+
+[compare changes](https://github.com/unjs/ufo/compare/v1.6.3...v1.6.4)
+
+### 🩹 Fixes
+
+- **withoutBase:** Collapse leading slashes ([#335](https://github.com/unjs/ufo/pull/335))
+
+### 🏡 Chore
+
+- Update deps ([7807010](https://github.com/unjs/ufo/commit/7807010))
+
+### ❤️ Contributors
+
+- Pooya Parsa ([@pi0](https://github.com/pi0))
+
 ## v1.6.3
 
 [compare changes](https://github.com/unjs/ufo/compare/v1.6.2...v1.6.3)
